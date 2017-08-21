@@ -1,0 +1,6 @@
+# Created by .ignore support plugin (hsz.mobi)
+/.idea/
+/rubix-bootstrap/node_modules/
+/rubix-bootstrap/dist/
+/demo/public/bower_components/
+/demo/node_modules/
